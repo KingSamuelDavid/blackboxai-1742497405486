@@ -1,9 +1,11 @@
-Flask
-celery
-realesrgan
-Pillow
-opencv-python
-ffmpeg-python
-whisper
-rife-ai
-redis
+Flask==2.0.1
+Flask-Limiter==3.5.0
+celery==5.2.3
+redis==4.1.0
+gunicorn==20.1.0
+opencv-python==4.7.0.72
+Pillow==9.3.0
+ffmpeg-python==0.2.0
+numpy==1.21.0
+torch==2.0.0
+# rife @ git+https://github.com/megvii-research/RIFE.git
