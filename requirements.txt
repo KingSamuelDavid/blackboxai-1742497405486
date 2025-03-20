@@ -1,0 +1,9 @@
+Flask
+celery
+realesrgan
+Pillow
+opencv-python
+ffmpeg-python
+whisper
+rife-ai
+redis
