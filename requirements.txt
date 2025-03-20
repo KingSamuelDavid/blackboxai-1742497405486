@@ -8,4 +8,3 @@ Pillow==9.3.0
 ffmpeg-python==0.2.0
 numpy==1.21.0
 torch==2.0.0
-# rife @ git+https://github.com/megvii-research/RIFE.git
